@@ -5,14 +5,14 @@
 **Full-Stack Engineer · MERN · Android (Kotlin/Java) · WordPress**
 
 📍 Chakwal, Pakistan &nbsp;|&nbsp; 🌍 Open to Gulf Opportunities &nbsp;|&nbsp; 💼 Available for Freelance
-![Snake](https://raw.githubusercontent.com/abbas679/abbas679/output/github-snake.svg)
+
 [![Email](https://img.shields.io/badge/Email-tahir76422%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tahir76422@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahir_Abbas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahir-abbas-777239b6)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahirabbas.dev-000000?style=flat&logo=vercel&logoColor=white)](https://tahirabbas.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=abbas679&color=58a6ff&style=flat)
 
 </div>
-
+![Snake](https://raw.githubusercontent.com/abbas679/abbas679/output/github-snake.svg)
 ---
 
 ## 🛠️ Tech Stack

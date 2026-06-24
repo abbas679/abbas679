@@ -12,9 +12,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abbas679&color=58a6ff&style=flat)
 
 </div>
-![Snake](https://raw.githubusercontent.com/abbas679/abbas679/output/github-snake.svg)
 ---
+<div align="center">
 
+![Snake](https://raw.githubusercontent.com/abbas679/abbas679/output/github-snake.svg)
+
+</div>
+
+---
 ## 🛠️ Tech Stack
 
 **Frontend**

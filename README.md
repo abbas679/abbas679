@@ -1,101 +1,223 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tahir+Abbas+%F0%9F%91%8B;Full-Stack+Engineer;MERN+%7C+Android+%7C+WordPress;Open+to+Gulf+Opportunities)](https://git.io/typing-svg)
+# Hi there 👋 I'm Tahir Abbas
 
-**Full-Stack Engineer · MERN · Android (Kotlin/Java) · WordPress**
+### Full-Stack Software Engineer • MERN • TypeScript • AI • WordPress • Android
 
-📍 Chakwal, Pakistan &nbsp;|&nbsp; 🌍 Open to Gulf Opportunities &nbsp;|&nbsp; 💼 Available for Freelance
+Building scalable web applications, enterprise software, AI-powered solutions, and production-ready WordPress platforms.
 
-[![Email](https://img.shields.io/badge/Email-tahir76422%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tahir76422@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahir_Abbas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahir-abbas-777239b6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tahirabbas.dev-000000?style=flat&logo=vercel&logoColor=white)](https://tahirabbas.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=abbas679&color=58a6ff&style=flat)
+<p>
+<a href="mailto:tahir76422@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tahir-abbas-777239b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abbas679"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=abbas679&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
+
 ---
+
+# 🚀 About Me
+
+I'm a **Full-Stack Software Engineer** with experience designing and developing scalable software solutions ranging from enterprise ERP systems and AI-powered educational platforms to Android applications and WordPress business websites.
+
+I enjoy transforming complex business requirements into clean, maintainable, production-ready software using modern technologies and engineering best practices.
+
+### Highlights
+
+- 💼 5+ Years Professional Experience
+- 🚀 Enterprise ERP & LMS Development
+- 🤖 AI-Powered Applications
+- 🌐 MERN Stack Expert
+- ⚡ TypeScript Enthusiast
+- 📱 Android Developer
+- 🎨 WordPress & WooCommerce Specialist
+- 🌍 Available for Remote & Freelance Opportunities
+
+---
+
+# 💼 What I Can Build
+
+### Enterprise Applications
+
+- ERP Systems
+- CRM Systems
+- HR Management
+- School/College Management
+- Learning Management Systems
+
+### Full Stack Development
+
+- MERN Applications
+- REST APIs
+- Authentication Systems
+- Admin Dashboards
+- SaaS Platforms
+
+### WordPress Development
+
+- Custom Business Websites
+- Elementor
+- WooCommerce
+- Theme Customization
+- Performance Optimization
+- SEO
+
+### Mobile Development
+
+- Android Applications
+- Kotlin
+- Java
+- Firebase
+
+### AI Development
+
+- LLM Integration
+- AI Content Generation
+- AI Educational Platforms
+- Prompt Engineering
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-black?style=flat)
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+
+## CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-black?style=flat&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-black?style=flat&logo=woocommerce)
+![Elementor](https://img.shields.io/badge/Elementor-black?style=flat&logo=elementor)
+
+---
+
+# 🏗 Engineering Expertise
+
+- Clean Architecture
+- MVC Architecture
+- Repository Pattern
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- RESTful API Design
+- Database Design
+- MongoDB Aggregation
+- Performance Optimization
+- Responsive UI
+- Agile Development
+- Git Workflow
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎓 EduCore ERP | Complete College ERP with Admissions, HR, Payroll, Attendance, Results & Timetable |
+| 🤖 AI Exam Generator | AI-powered exam paper & question bank generation platform |
+| 📚 Learning Management System | Multi-role LMS with instructor & student dashboards |
+| 🩸 Blood Donation System | Full-stack donor & hospital management platform |
+| 📱 Savior | Android Emergency SOS application with GPS & SMS alerts |
+| 🌐 WordPress Client Projects | Production WordPress websites delivered for international clients |
+
+---
+
+# 🌍 Production Client Work
+
+| Client | My Contribution |
+|---------|-----------------|
+| Hammer International | Complete WordPress Website Development |
+| TechWork360 | MERN Development, TypeScript & WordPress |
+| Working Writer Secrets | Complete WordPress Development |
+| Laudy Links | UI Redesign & Performance Improvements |
+| AU Verified PEPs | WordPress Improvements & Responsive Fixes |
+| Watch Collector AU | Joomla Development & Responsive Forms |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abbas679&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas679&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abbas679&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Current Focus
+
+- AI-Powered Educational Platforms
+- Enterprise ERP Systems
+- MERN SaaS Applications
+- Advanced TypeScript
+- Open Source Contributions
+
+---
+
+# 🤝 Available For
+
+✅ Full-Time Opportunities
+
+✅ Remote Roles
+
+✅ Gulf Region Jobs
+
+✅ Freelance Projects
+
+✅ Long-Term Contracts
+
+---
+
+# 📬 Let's Connect
+
+📧 **Email:** **tahir76422@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/tahir-abbas-777239b6
+
+🌍 **Location:** Chakwal, Pakistan
+
+---
+
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/abbas679/abbas679/output/github-snake.svg)
+### ⭐ Thanks for visiting my profile!
+
+*"Turning ideas into scalable software solutions."*
 
 </div>
-
----
-## 🛠️ Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-
-**Android**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**WordPress**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-### 🎓 [EduCore — College Management ERP](https://github.com/abbas679/educore-erp)
-> Enterprise ERP: HR · Admissions · Exams · Timetable · Payroll · ID Cards · Multi-role Dashboards
-
-![React](https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT%20Auth-black?style=flat&logo=JSON%20web%20tokens)
-![RBAC](https://img.shields.io/badge/-RBAC-red?style=flat)
-
----
-
-### 🆘 [Savior — Intelligent Emergency SOS App](https://github.com/abbas679/savior-app)
-> Shake/fall detection → auto SMS with live GPS to emergency contacts. Runs as foreground service.
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
-![MVVM](https://img.shields.io/badge/-MVVM-orange?style=flat)
-![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-blueviolet?style=flat)
-
----
-
-### 🌐 [WordPress Client Portfolio — 6 Live Sites](https://github.com/abbas679/wordpress-client-work)
-> Custom themes · WooCommerce stores · Elementor builds · WhatsApp automation · PHP CPT installers
-
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbas679&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas679&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abbas679&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🤝 Open To
-
-✅ Full-Stack / MERN roles — Gulf region &nbsp;&nbsp; ✅ Freelance WordPress & WooCommerce
-✅ Android (Kotlin) app development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Remote contracts worldwide
-
-📩 **tahir76422@gmail.com** &nbsp;·&nbsp; 📞 **+92 371 1918307**

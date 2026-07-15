@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:tahir76422@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/tahir-abbas-777239b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/tahir-abbas-489544289)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://tahirabbas.dev)
 
 <sub>📍 Chakwal, Pakistan &nbsp;·&nbsp; 🌍 Open to Remote & Gulf Opportunities &nbsp;·&nbsp; 💼 Available for Freelance</sub>

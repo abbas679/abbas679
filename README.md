@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6C5CE7,100:D4AF37&height=220&section=header&text=Tahir%20Abbas&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20AI-Powered%20EdTech&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A876,50:7EC8E3,100:9D7FD1&height=220&section=header&text=Tahir%20Abbas&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20AI-Powered%20EdTech&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Enterprise+ERP+%2F+LMS+Systems;AI-Powered+EdTech+Tools;MERN+%7C+TypeScript+%7C+Android+%7C+WordPress;Open+to+Remote+%26+Gulf+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&pause=1200&color=7EC8E3&center=true&vCenter=true&width=650&lines=Building+Enterprise+ERP+%2F+LMS+Systems;AI-Powered+EdTech+Tools;MERN+%7C+TypeScript+%7C+Android+%7C+WordPress;Open+to+Remote+%26+Gulf+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:tahir76422@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/tahir-abbas-489544289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://tahirabbas.dev)
+[![Email](https://img.shields.io/badge/Email-2D1B4E?style=for-the-badge&logo=gmail&logoColor=C8A876)](mailto:tahir76422@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=7EC8E3)](https://linkedin.com/in/tahir-abbas-489544289)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D1B4E?style=for-the-badge&logo=vercel&logoColor=9D7FD1)](https://tahirabbas.dev)
 
 <sub>📍 Chakwal, Pakistan &nbsp;·&nbsp; 🌍 Open to Remote & Gulf Opportunities &nbsp;·&nbsp; 💼 Available for Freelance</sub>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,50:6C5CE7,100:D4AF37&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A876,50:7EC8E3,100:9D7FD1&height=3&section=header" width="100%"/>
 
 <div align="center">
 <h2>— SELECTED WORK —</h2>
@@ -39,6 +39,11 @@
 <td>🤖 <a href="https://github.com/abbas679/AI-Paper-Generator"><b>AI Exam Paper Generator</b></a></td>
 <td>LLM-powered exam & question-bank generation with LaTeX rendering</td>
 <td>Screenshots in repo · <i>Live demo (deploying)</i></td>
+</tr>
+<tr>
+<td>📢 <a href="https://github.com/abbas679/linkedin-scheduler"><b>LinkedIn Content Assistant</b></a></td>
+<td>Scans tech trends via Gemini search grounding, drafts LinkedIn posts, and manages a publish/review queue</td>
+<td>4 screenshots in repo</td>
 </tr>
 <tr>
 <td>✅ <a href="https://github.com/abbas679/todo-pro"><b>TodoPro</b></a></td>
@@ -86,21 +91,21 @@
 <p align="center"><sub><b>Built from scratch</b> — full WordPress development (theme, Elementor, pages, widgets)</sub></p>
 
 <div align="center">
-<a href="https://hammer-intl.com/"><img src="https://img.shields.io/badge/Hammer_International-1A1A2E?style=for-the-badge&logo=wordpress&logoColor=D4AF37"/></a>
-<a href="https://techwork360.com/"><img src="https://img.shields.io/badge/TechWork360-1A1A2E?style=for-the-badge&logo=wordpress&logoColor=D4AF37"/></a>
-<a href="https://workingwritersecrets.com/"><img src="https://img.shields.io/badge/Working_Writer_Secrets-1A1A2E?style=for-the-badge&logo=wordpress&logoColor=D4AF37"/></a>
+<a href="https://hammer-intl.com/"><img src="https://img.shields.io/badge/Hammer_International-2D1B4E?style=for-the-badge&logo=wordpress&logoColor=C8A876"/></a>
+<a href="https://techwork360.com/"><img src="https://img.shields.io/badge/TechWork360-2D1B4E?style=for-the-badge&logo=wordpress&logoColor=C8A876"/></a>
+<a href="https://workingwritersecrets.com/"><img src="https://img.shields.io/badge/Working_Writer_Secrets-2D1B4E?style=for-the-badge&logo=wordpress&logoColor=C8A876"/></a>
 </div>
 
 <p align="center"><sub><b>Improved / redesigned</b> — existing sites, partial development</sub></p>
 
 <div align="center">
-<a href="https://laudylinks.com/"><img src="https://img.shields.io/badge/Laudy_Links-1A1A2E?style=for-the-badge&logo=wordpress&logoColor=6C5CE7"/></a>
-<a href="https://auverifiedpeps.com/"><img src="https://img.shields.io/badge/AU_Verified_PEPs-1A1A2E?style=for-the-badge&logo=wordpress&logoColor=6C5CE7"/></a>
+<a href="https://laudylinks.com/"><img src="https://img.shields.io/badge/Laudy_Links-2D1B4E?style=for-the-badge&logo=wordpress&logoColor=9D7FD1"/></a>
+<a href="https://auverifiedpeps.com/"><img src="https://img.shields.io/badge/AU_Verified_PEPs-2D1B4E?style=for-the-badge&logo=wordpress&logoColor=9D7FD1"/></a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,50:6C5CE7,100:D4AF37&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A876,50:7EC8E3,100:9D7FD1&height=3&section=header" width="100%"/>
 
 <div align="center">
 <h2>— TECH STACK —</h2>
@@ -110,16 +115,17 @@
 
 <br/><br/>
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-1A1A2E?style=for-the-badge&logo=google&logoColor=D4AF37)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-1A1A2E?style=for-the-badge&logo=openai&logoColor=D4AF37)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1A1A2E?style=for-the-badge&logo=jetpackcompose&logoColor=6C5CE7)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-1A1A2E?style=for-the-badge&logo=woocommerce&logoColor=6C5CE7)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2D1B4E?style=for-the-badge&logo=google&logoColor=C8A876)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-2D1B4E?style=for-the-badge&logo=openai&logoColor=C8A876)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-2D1B4E?style=for-the-badge&logo=jetpackcompose&logoColor=7EC8E3)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-2D1B4E?style=for-the-badge&logo=woocommerce&logoColor=7EC8E3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D1B4E?style=for-the-badge&logo=postgresql&logoColor=9D7FD1)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,50:6C5CE7,100:D4AF37&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A876,50:7EC8E3,100:9D7FD1&height=3&section=header" width="100%"/>
 
 <div align="center">
 <h2>— CONTRIBUTION ACTIVITY —</h2>
@@ -129,7 +135,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,50:6C5CE7,100:D4AF37&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A876,50:7EC8E3,100:9D7FD1&height=3&section=header" width="100%"/>
 
 <div align="center">
 <h2>— ABOUT —</h2>
@@ -151,13 +157,13 @@ Foundational/interview-practice exercises, kept for transparency but intentional
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:6C5CE7,100:1A1A2E&height=180&section=footer&text=Let's%20Build%20Something&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D7FD1,50:7EC8E3,100:C8A876&height=180&section=footer&text=Let's%20Build%20Something&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
 ✅ Full-Stack / MERN — Gulf region &nbsp;&nbsp; ✅ Freelance WordPress & WooCommerce
 ✅ AI-powered application development &nbsp;&nbsp; ✅ Remote contracts worldwide
 
-📩 **tahir76422@gmail.com** &nbsp;·&nbsp; 📞 **+92 371 1918307** &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/tahir-abbas-777239b6)
+📩 **tahir76422@gmail.com** &nbsp;·&nbsp; 📞 **+92 371 1918307** &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/tahir-abbas-489544289)
 
 </div>
